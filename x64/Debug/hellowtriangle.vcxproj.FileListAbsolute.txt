@@ -1,0 +1,3 @@
+D:\VScode\hellowtriangle\x64\Debug\hellowtriangle.exe
+D:\VScode\hellowtriangle\x64\Debug\hellowtriangle.pdb
+D:\VScode\x64\Debug\hellowtriangle.pdb

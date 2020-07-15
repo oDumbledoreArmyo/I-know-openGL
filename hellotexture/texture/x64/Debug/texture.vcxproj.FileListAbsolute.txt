@@ -1,0 +1,2 @@
+D:\VScode\hellotexture\texture\x64\Debug\texture.exe
+D:\VScode\hellotexture\texture\x64\Debug\texture.pdb

@@ -1,0 +1,4 @@
+﻿  texture.cpp
+D:\openGL\include\shader\shader.h(57,40): warning C4101: “e”: 未引用的局部变量
+D:\VScode\hellotexture\texture\texture.cpp(186,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  texture.vcxproj -> D:\VScode\hellotexture\texture\x64\Debug\texture.exe

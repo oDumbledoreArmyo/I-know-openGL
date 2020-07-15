@@ -1,0 +1,2 @@
+D:\VScode\hellowindow\x64\Debug\hellowindow.exe
+D:\VScode\hellowindow\x64\Debug\hellowindow.pdb
